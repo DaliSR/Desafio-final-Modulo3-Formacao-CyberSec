@@ -67,4 +67,5 @@ Sugestões de melhoria ou correções podem ser enviadas via pull requests ou is
 --- 
 ##  📄 Licença e Ética 
 Este projeto foi desenvolvido *exclusivamente para fins educacionais* em  ambientes autorizados.
+
 ---

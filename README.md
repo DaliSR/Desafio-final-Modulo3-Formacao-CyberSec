@@ -22,7 +22,7 @@ O relatório apresenta:
 - Tecnologias: Apache, MySQL, FTP, SSH.
 - Vulnerabilidades exploradas: SQL Injection, Local File Inclusion, falhas de autenticação, credenciais expostas.
 
-### ✅ Ambiente 2 – API REST (Python)
+### ✅ Ambiente 2 – API REST 
 - URL: `http://98.88.106.35:5000`
 - Vulnerabilidades exploradas: falhas de autenticação JWT e desserialização insegura (RCE não concluída devido a bloqueios).
 

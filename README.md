@@ -41,7 +41,7 @@ Foram encontradas e documentadas **10 flags**, utilizando:
 
 ---
 
-##📋4. Conteúdo do relatório
+## 4. 📋 Conteúdo do relatório
 O documento inclui:
 
 - Introdução  

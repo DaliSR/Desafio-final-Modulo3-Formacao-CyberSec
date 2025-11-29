@@ -59,11 +59,6 @@ O documento inclui:
 ## 6.🔍 Como visualizar
 Abra o PDF diretamente no navegador ou baixe o arquivo.
  
----
-
-## 7.🤝 Como contribuir
-Sugestões de melhoria ou correções podem ser enviadas via pull requests ou issues.
-
 --- 
 ##  📄 Licença e Ética 
 Este projeto foi desenvolvido *exclusivamente para fins educacionais* em  ambientes autorizados.
